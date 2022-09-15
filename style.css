@@ -1,0 +1,14 @@
+#do{
+    background-color: gray;
+    flex-direction: inherit;
+    
+}
+.tom{
+    color: green;
+
+}
+.mel{
+    background-color: blueviolet;
+    width: 40px;
+    background-position-x: center;
+}
